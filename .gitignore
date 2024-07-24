@@ -1,0 +1,6 @@
+/devkitPro/*
+/.vscode/*
+/build
+looking-for-name.arm9
+looking-for-name.elf
+looking-for-name.nds

@@ -1,7 +1,7 @@
 
 # The Walkman NDS Project
 
-*Please read this readme*
+*This project uses a modified version of NDSLIB*
 
 ## Gameplay
 
